@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1720386244 source:c:\users\cagat\onedrive\desktop\c++ projeler›\ders102-103\main.cpp
+	"dosyalar/basliklar.h"
+
+1720380666 c:\users\cagat\onedrive\desktop\c++ projeler›\ders102-103\dosyalar\basliklar.h
+	<iostream>
+	<cstring>
+	<string>
+	<clocale>
+	"classlar.h"
+	"metodlar.h"
+
+1720381846 c:\users\cagat\onedrive\desktop\c++ projeler›\ders102-103\dosyalar\classlar.h
+
+1720385869 c:\users\cagat\onedrive\desktop\c++ projeler›\ders102-103\dosyalar\metodlar.h
+
