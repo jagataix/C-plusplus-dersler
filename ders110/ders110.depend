@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1720450383 source:c:\users\cagat\onedrive\desktop\c++ projeler›\ders110\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
